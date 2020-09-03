@@ -11,7 +11,15 @@ a) Implement the C program in which main program accepts the integers to be sort
 
 b) Construct the complete binary tree using fork() system call and return the height of tree.
 
-Assignement 3 : 
+Assignment 3 : 
 a) write a c program for orphan process using fork() system.
 B) write a program for zombie process using fork() system. 
 c)write a mulprocesses program using fork().
+
+Assignment 4:
+Thread and fork()
+
+Assignment 5:
+
+a)Fibonacci using multi threading.
+b)Multi threads using local,static and global variables
