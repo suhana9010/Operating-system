@@ -28,5 +28,7 @@ b)Multi threads using local,static and global variables
 Assignment 6:
 
 a)Implement Binary and counting semaphore.
+
 b)Peterson's Algorithm using multiprocessor fork()
+
 c)Race condition using fork()
