@@ -32,3 +32,9 @@ a)Implement Binary and counting semaphore.
 b)Peterson's Algorithm using multiprocessor fork()
 
 c)Race condition using fork()
+
+Assignment 7:
+
+a)Producer and consumer classical process synchronization.
+
+b)Reader and Writer classical process synchronization.
