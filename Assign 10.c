@@ -1,4 +1,4 @@
-// C program for implementation of FCFS 
+
 
 #include<stdio.h> 
 void findWaitingTime(int processes[], int n, 
